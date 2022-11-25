@@ -1,0 +1,37 @@
+input {
+  padding: 10px;
+  border-radius: 5px;
+}
+select {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#upload {
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+
+#headerSection {
+  padding: 2px;
+  font-family: algerian;
+}
+
+#loginSection {
+  padding: 5px;
+}
+body {
+  background-color: #7d2693;
+}
+
+#loginbtn {
+  padding: 5px;
+  font-size: 15px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+}
+#flag{
+  float: right;
+}
